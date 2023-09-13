@@ -1,0 +1,10 @@
+firebase_admin
+streamlit
+streamlit_option_menu
+google-auth
+google-cloud-vision
+streamlit-option-menu
+requests
+pandas
+Pillow
+PIL
